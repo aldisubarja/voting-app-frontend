@@ -1,4 +1,4 @@
-# octomate-test-frontend
+# voting-app-frontend
 
 A simple voting system frontend built with Vite+React. Includes user registration, login, voting functionality, and admin access for results.
 Note: Important to run the backend first before frontend
@@ -9,8 +9,8 @@ Note: Important to run the backend first before frontend
 
 ### 1. Clone the Repository
 
-git clone https://github.com/aldisubarja/octomate-test-frontend.git
-cd octomate-test-frontend
+git clone https://github.com/aldisubarja/voting-app-frontend.git
+cd voting-app-frontend
 
 ### 2. Install dependencies
 npm install
